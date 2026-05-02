@@ -4,3 +4,7 @@ numpy
 matplotlib
 scikit-learn
 plotly
+xgboost
+lightgbm
+scikit-learn
+joblib
